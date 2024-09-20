@@ -11,7 +11,7 @@ const CampSite = ({
   backgroundImage,
   title,
   subtitle,
-  peopleJoind,
+  peopleJoined,
 }: CampProps) => {
   return (
     <div
