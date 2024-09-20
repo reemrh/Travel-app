@@ -40,7 +40,7 @@ const CampSite = ({
               />
             ))}
           </span>
-          <p className="bold-16 md:bold-20 text-white ">{peopleJoind}</p>
+          <p className="bold-16 md:bold-20 text-white ">{peopleJoined}</p>
         </div>
       </div>
     </div>
